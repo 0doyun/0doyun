@@ -3,7 +3,7 @@
 </div>
 
 
-### AI Agent Usage
+## AI Agent Usage
 
 <div align="center">
 
@@ -11,9 +11,8 @@
 
 </div>
 
----
 
-### GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
