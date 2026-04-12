@@ -17,8 +17,5 @@
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0doyun&theme=github_dark&v=2" width="100%" alt="GitHub Summary"/>
   <br/>
-  <table border="0" cellspacing="0" cellpadding="0"><tr>
-    <td width="60%"><img src="https://streak-stats.demolab.com/?user=0doyun&theme=dark&hide_border=true&background=0a0a0a&ring=00aaff&fire=00aaff&currStreakLabel=00aaff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888&v=2" width="100%" height="180" alt="GitHub Streak"/></td>
-    <td width="40%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=0doyun&theme=github_dark&utcOffset=9" width="100%" height="180" alt="Productive Time"/></td>
-  </tr></table>
+  <img src="https://streak-stats.demolab.com/?user=0doyun&theme=dark&hide_border=true&background=0a0a0a&ring=00aaff&fire=00aaff&currStreakLabel=00aaff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888&v=2" width="58%" alt="GitHub Streak"/>&nbsp;<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=0doyun&theme=github_dark&utcOffset=9" width="40%" alt="Productive Time"/>
 </div>
