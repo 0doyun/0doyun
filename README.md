@@ -3,7 +3,7 @@
 </div> -->
 
 
-## AI Stats
+## AI Agent Stats
 
 <div align="center">
   <a href="https://tokscale.ai/u/0doyun">
