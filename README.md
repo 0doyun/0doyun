@@ -15,5 +15,5 @@
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards-five-mu.vercel.app/api/cards/combined?username=0doyun&theme=github_dark&utcOffset=9" width="100%" alt="GitHub Summary"/>
+  <img src="https://raw.githubusercontent.com/0doyun/0doyun/main/assets/combined-card.svg" width="100%" alt="GitHub Summary"/>
 </div>
