@@ -24,14 +24,14 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
-          node-version: "20"
+          node-version: "22"
           cache: "npm"
           cache-dependency-path: generator/package-lock.json
 
       - name: Install & build generator
         working-directory: generator
         run: |
-          npm ci
+          npm install --no-audit --no-fund
           npm run build
 
       - name: Render combined SVG
