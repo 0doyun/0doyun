@@ -49,10 +49,10 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          if git diff --quiet -- assets/combined-card.svg; then
+          git add assets/combined-card.svg
+          if git diff --cached --quiet -- assets/combined-card.svg; then
             echo "No changes."
           else
-            git add assets/combined-card.svg
             git commit -m "chore: refresh combined card"
             git push
           fi
